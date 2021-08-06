@@ -1,3 +1,26 @@
 .intro {
-    background-color: bisque;
+    
+    background-color: white;
+    display: flex;
+
+    .left{
+        flex: 0.5;
+        overflow: hidden;
+        .imgContainer{
+            
+            border-radius:80%;
+            width: 500px;
+            height: 555px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            img{
+                height: 70%;
+            }
+        }
+    }
+    .right{
+        flex: 0.5;
+    }
+    
 }
