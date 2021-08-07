@@ -23,7 +23,7 @@ const textRef = useRef()
                 <div className="wrapper">
                     <h2>Hi there! I'm</h2>
                     <h1>Gabriel Pelosi</h1>
-                    <h3>Software Eng  <span ref={textRef}></span> </h3>
+                    <h3>Software Engineering  <span ref={textRef}></span> </h3>
                 </div>
                 <a href="#portfolio">
                     <img src="assets/down.png" alt="" />

@@ -5,6 +5,7 @@ import Contacts from './components/contacts/Contacts'
 import Menu from './components/menu/Menu'
 import './App.scss'
 import {useState} from 'react'
+import AboutMe from './components/about/AboutMe'
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <div className="sections">
         <Intro/>
         <Portfolio/>
+        <AboutMe/>
         <Contacts/> 
       </div>
     </div>
