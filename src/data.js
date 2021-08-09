@@ -51,6 +51,13 @@ export const springPortfolio = [
       url: 'https://github.com/GabrielPelosi/notes-application',
       appUrl: 'https://pelosi-notes.netlify.app/'
     },
+    {
+      id: 4,
+      title: "Portfolio App",
+      img: "assets/portfolio_react.jpg",
+      deployed: false,
+      url: 'https://github.com/GabrielPelosi/portfolio-application'
+    },
   ];
   
   export const javaPortfolio = [
