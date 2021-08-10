@@ -9,7 +9,7 @@
     align-items: center;
     padding-top:100px;
     @include mobile{
-        padding-top:70px; 
+        padding-top:80px; 
     }
     h1{
         color:$mainColor;
@@ -54,8 +54,8 @@
             cursor: pointer;
             @include mobile{
                 margin-left: 20px;
-            margin-right: 10px;
-            font-size: 20px;
+                margin-right: 10px;
+                font-size: 15px;
             }
             a{
                 text-decoration: none;
@@ -67,7 +67,7 @@
         }
     }
     footer{
-        margin-top:170px;
+        margin-top:150px;
         margin-right: 10px;
     }
 }
