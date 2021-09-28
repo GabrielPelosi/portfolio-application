@@ -20,6 +20,17 @@ function App() {
         <AboutMe/>
         <Contacts/> 
       </div>
+      <div className={"discontinuated__container"}>
+        <div className="discontinuated__content">
+        <h1>Bem-vindo!</h1>
+        <p>Infelizmente o projeto deste portfolio está descontinuado e não receberá mais atualizações,
+           não será mais possível conferi-lo,mas o link para o portfolio mais atualizado e que irá receber futuras
+          atualizações está logo a seguir caso queira conferir.
+        </p>
+        <h4>Obrigado por visitar :D</h4>
+        <span>Novo portfolio: <a href="http://google.com">LINK</a></span>
+        </div>
+      </div>
     </div>
   );
 }
