@@ -28,7 +28,7 @@ function App() {
           atualizações está logo a seguir caso queira conferir.
         </p>
         <h4>Obrigado por visitar :D</h4>
-        <span>Novo portfolio: <a href="http://google.com">LINK</a></span>
+        <span>Novo portfolio: <a href="https://gabrielpelosi.netlify.app/">LINK</a></span>
         </div>
       </div>
     </div>
